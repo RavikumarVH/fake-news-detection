@@ -7,4 +7,4 @@ Fake News Detection
 # create new environment
 conda create -p venv python==3.8 -y
 
-# api folder include implemented with flask API for the prediction
+- API  folder contains API using flask. 
